@@ -1,0 +1,13 @@
+name: PartyTime
+main: com.kraken.partytime.Main
+version: 420 (Indica)
+commands:
+     partytime:
+        description: Info on the PartyTime plugin & version number.
+        usage: /<command> <on/off/opReq>
+     allowParty:
+        description: Toggle player permission to use the PartyTime commands.
+        usage: /<command> <player>
+     party:
+        description: PAAAAAAAARTYYYY TIIIIIIIME, YO!!!
+        usage: /<command>
