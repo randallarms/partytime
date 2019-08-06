@@ -1,5 +1,5 @@
 # PartyTime
-by kraken | https://www.spigotmc.org/resources/partytime.45778/
+by kraken
 
 PAAAAAAAARTYYYY TIIIIIIIME, YO!!!
 
